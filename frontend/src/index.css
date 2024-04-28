@@ -46,7 +46,7 @@ body{
 .logo-img{
   width: 60px;
   height: 60px;
-  background-color: aqua;
+  /* background-color: aqua; */
   margin-left: 50px;
 }
 .logo-img img{
@@ -211,7 +211,7 @@ body{
   /* border:2px solid black; */
   width:25%;
   border-color: #01edff;
-  border-radius: 5px;
+  border-radius: 20px;
   border: 0.01rem solid;
   /* background-color: red; */
   padding: 20px 0px 15px;

@@ -4,7 +4,7 @@ function NavBar(){
   return(
     <nav className="nav-bar">
       <div className="nav-logo">
-        <div className="logo-img"><img src="/images/logo-imgnew.jpg"></img></div>
+        <div className="logo-img"><img src="/images/logonew.png"></img></div>
         <div className="logo-text"><p><span>Ai</span>Tools</p></div>
       </div>
       <div className="nav-bar-buttons">
